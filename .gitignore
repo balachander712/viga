@@ -1,0 +1,21 @@
+# FastAPI specific files
+__pycache__/
+.env
+.env.*
+.pytest_cache/
+.pytest_cachefolder/
+.vscode/
+.idea/
+dist/
+build/
+*.egg-info/
+
+# Editor specific files
+*~
+.vscode/
+.idea/
+
+# Dependency directories
+venv/
+env/
+envs/
